@@ -95,5 +95,5 @@ This project is for educational purposes.
 
 ## 👩‍💻 Author
 
-**Mansi Singh**
+Maansi
 
